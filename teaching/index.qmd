@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+listing:
+  id: courses
+  contents: courses.yml
+  type: grid
+  grid-columns: 2
+  fields: [title, categories, description]
+  max-description-length: 500
+---
+
+<!-- Temporarily hidden until the Null Island materials are ready to publish.
+## Teaching materials
+
+[**Null Island Site Selection Exercise**](null-island.qmd) --- a GIS site-selection final project set on a fictional island, free to download and use in your own teaching.
+-->
+
+## Courses
+
+::: {#courses}
+:::

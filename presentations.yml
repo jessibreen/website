@@ -1,0 +1,128 @@
+# Talks and presentations: shown as a list, newest first.
+# Dates: use YYYY-MM-15 (the page shows month and year; the 15th avoids a time-zone quirk).
+# `description` holds the event and place. Add `path:` to link slides or a recording.
+# `categories` is the talk type (Paper, Panel, Invited talk, ...).
+
+- title: "A Guide to Mapping Small Joys"
+  date: "2026-10-23"
+  description: "North American Cartographic Information Society (NACIS) Annual Meeting, Milwaukee, WI."  
+  categories: [Conference Talk]
+
+- title: "Towards a Situated GeoAI"
+  date: "2026-06-15"
+  description: "Workshop on GeoAI for Autonomous Spatial Analysis, University of Maryland, College Park, MD."
+  categories: [Workshop Talk]  
+
+- title: "From Idea to Implementation: Using AI to Enable Innovative Teaching"
+  date: "2025-11-06"
+  description: "Institute for Applied Artificial Intelligence (IAAI) AI Teaching Conference, American University, Washington, DC."
+  categories: [Campus Talk]  
+
+- title: "Open Access for Open Source"
+  date: "2025-11-05"
+  description: "FOSS4G North America (Free and Open Source for Geospatial), Washington, DC."
+  path: https://youtu.be/RTfm_edaQ4k?si=Qv4NGzG4gG864YY9
+  categories: [Conference Talk]
+
+- title: "Paris Unfolded: The Art of Mapping a City"
+  date: "2025-10-16"
+  description: "North American Cartographic Information Society (NACIS) Annual Meeting, Louisville, KY."
+  path: https://youtu.be/5Mq0nWABxQU?si=T14xK4QI6LjAsChG
+  categories: [Conference Talk]
+
+- title: "Data Rescue as Civic Engagement: Empowering Communities to Preserve Public Data"
+  date: "2025-10-08"
+  description: "Southeastern Data Librarian Symposium (SEDL), Virtual Event. With Olivia Ivey."
+  path: https://youtu.be/o4hV3Jht9PE?si=iSUTYz4mU91mW69E
+  categories: [Conference Talk]
+
+- title: "Ethical and Practical Approaches to AI in the Research Process"
+  date: "2025-08-20"
+  description: "August Faculty Workshops, American University, Washington, DC."  
+  categories: [Campus Panel]
+
+- title: "Teaching in Place: Mapping as a Path to Critical Understanding"
+  date: "2025-08-13"
+  description: "August Faculty Workshops, American University, Washington, DC."  
+  categories: [Campus Talk]
+
+- title: "What’s Going On and What Can I Do?! Government Information in Early Trump 2.0"
+  date: "2025-06-12"
+  description: "American Library Association, Government Documents Round Table (GODORT) Annual Meeting, Virtual Event. With Kelly L. Smith."
+  path: https://ala-events.zoom.us/rec/play/i0Ee1Tscw-jc7Jw4ngRes_xBsYM1P3xjTF8xMZMwF3IkpTbZ34SCIROGyMrG9ztDc-Jrd_kjM5SO52Jy.VGaHb6DtDfXuMWhm?accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1749747601000&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fala-events.zoom.us%2Frec%2Fshare%2FiocQcOm12r9Wq1kHpoOXsRfA9UF5l7OaYt4pb06Ap_2s7qR_mAccWXCUfuo4oyxR.6QexqoFw7eyTL35P%3FstartTime%3D1749747601000
+  categories: [Conference Talk]
+
+- title: "DEI in Mapping Summit"
+  date: "2025-04-23"
+  description: "GW Humanitarian Mapping Society meeting, Washington, DC."
+  categories: [Invited Panelist]
+
+# - title: "Envisioning the #FutureCity: The Influence of Digital Platforms on the Imagined Futures of Temporary Placemaking"
+#   date: "2022-02-15"
+#   description: "Annual Meeting of the American Association of Geographers, New York, NY."
+#   categories: [Conference Talk]
+
+- title: "Research, Data, and Methodology Support and Resources from CTRL and the Library"
+  date: "2024-08-24"
+  description: "August Faculty Workshops, American University, Washington, DC. With Eric R. Schuler and Tiffany Monique Quash"   
+  path: https://www.youtube.com/watch?v=ivM6JIG_3bU
+  categories: [Campus Talk]
+
+- title: "Tools for Everyone: Incorporating Mapping into Teaching and Research"
+  date: "2024-08-23"
+  description: "August Faculty Workshops, American University, Washington, DC."  
+  categories: [Campus Talk]
+
+
+- title: "AI in Education: From Panic to Purpose"
+  date: "2024-01-11"
+  description: "Ann Ferren Conference on Teaching, Research, and Learning, American University, Washington, DC. With Clarissa Ihssen, Olivia Ivey, and Ashley Roccamo."
+  categories: [Campus Talk] 
+
+- title: "#PublicArt: Leveraging Digital Mediation to Visualize (In)formal Networks of Creative Practice"
+  date: "2020-04-15"
+  description: "Annual Meeting of the American Association of Geographers (AAG), Denver, CO. **Canceled due to COVID-19.**"
+  categories: [Conference Talk]
+
+- title: "Ethical Mapping in Praxis, Theory, and Pedagogy"
+  date: "2017-10-15"
+  description: "North American Cartographic Information Society (NACIS) Annual Meeting, Montréal, Canada."
+  path: https://www.youtube.com/watch?v=_UJ5a2Qhjd8
+  categories: [Conference Panel]
+
+- title: "Data Design with Chernoff Fish"
+  date: "2017-10-14"
+  description: "Guest artist lecture, Transylvania University, Lexington, KY."
+  categories: [Invited Talk]
+
+- title: "Critical Cartography, Critical Data: Confronting New Forms of Geospatial Information"
+  date: "2016-10-15"
+  description: "North American Cartographic Information Society (NACIS) Annual Meeting, Colorado Springs, CO."
+  categories: [Conference Panel]
+
+- title: "Opening Up the Classroom: Teaching GIS with Open-Source Tools"
+  date: "2016-05-15"
+  description: "FOSS4G North America (Free and Open Source for Geospatial), Raleigh, NC."
+  path: https://youtu.be/Im8gNEkFLR8?si=M5sY4w319nnIMeVp
+  categories: [Conference Talk]
+
+- title: "Balloons, Kites and Poles: Low-Cost Ways to Capture and Analyze Open Geodata"
+  date: "2016-05-14"
+  description: "FOSS4G North America (Free and Open Source for Geospatial), Raleigh, NC. With Jeffrey Yoo Warren."
+  path: https://docs.google.com/presentation/d/1RsuyAd0AZ-t8YkOSIEW6M6vLLJMf737eixDspznnfA0/pub?start=false&loop=false&delayms=5000#slide=id.p
+  categories: [Conference Talk]
+
+- title: "Public Participation and Strategy: Does Strategy Impact the Efficacy of Geoweb-Enabled Tools in Helping to Tame the Wicked Problem of Participation?"
+  date: "2014-04-15"
+  description: "Annual Meeting of the Association of American Geographers (AAG), Tampa, FL."
+  categories: [Conference Talk]
+
+- title: "Open Hardware: Sensors, Privacy and Civic Data"
+  date: "2013-05-15"
+  description: "TransparencyCamp, Washington, DC. With Shannon Dosemagen, Liz Barry and Javaun Moradi."
+  categories: [Conference Panel]
+
+- title: "Moving to the Mountains: A Q Method Study of the Influence of Amenity Migration on Land-Use Planning in Western North Carolina"
+  date: "2013-03-15"
+  description: "Dimensions of Political Ecology (DOPE) Conference, University of Kentucky, Lexington, KY."
+  categories: [Conference Talk]

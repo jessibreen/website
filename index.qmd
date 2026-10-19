@@ -1,0 +1,49 @@
+---
+title: "Jessica Breen"
+subtitle: "Program Director, Geospatial Research Support · [American University](https://www.american.edu/profiles/staff/jbreen.cfm)"
+image: avatar.jpg
+image-alt: "Jessica Breen"
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=mTPH1w4AAAAJ&hl=en&inst=5803104576075509644
+    - icon: github
+      text: GitHub
+      href: https://github.com/jessibreen
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jmbreen/
+---
+
+## Biography
+
+Dr. Jessica Breen is a critical human geographer whose work delves into the interplay between digital and physical worlds as they shape urban spaces. Her research focuses on digital geographies and creative placemaking, utilizing mapping and visual data to understand how these interconnected realms enable us to craft the environments we desire for living and working.
+
+As the Program Director for Geospatial Research Support, Dr. Breen leads initiatives to integrate geospatial tools and data into research and teaching across disciplines. She oversees efforts in enhancing GIS applications in classroom settings, supporting faculty and students in harnessing spatial analysis for diverse academic projects, and fostering practical GIS skills that bridge academic theory with real-world challenges.
+
+:::: {.columns}
+
+::: {.column width="50%"}
+## Interests
+
+- Digital Geographies
+- Urban Geography
+- Critical Mapping and GIS
+- Civic Engagement
+:::
+
+::: {.column width="50%"}
+## Education
+
+**PhD in Geography**<br>University of Kentucky
+
+**MS in Environmental Studies**<br>College of Charleston
+
+**BA in Political Science**<br>University of South Carolina
+:::
+
+::::

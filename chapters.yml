@@ -1,0 +1,52 @@
+# Chapters in edited volumes: shown as a grid with the book's cover.
+# Covers go in images/covers/ — replace the placeholder files, keeping the same names.
+# Dates: use YYYY-07-01 (only the year is shown; a bare year displays one year early).
+# Leave out `path` if there's nothing to link to.
+
+- title: "Expanding Cartographic Practices in the Social Sciences"
+  author: "Innisfree McKinnon and Jessica Breen"
+  date: "2019-12-01"
+  description: "In *The SAGE Handbook of Visual Research Methods*, 2nd ed., edited by L. Pauwels and D. Mannay. SAGE Publications."
+  image: images/covers/sage-visual-research-methods.jpg
+  path: https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-visual-research-methods/book250969
+  categories: [Book chapter]
+
+- title: "Public Laboratory: Play and Civic Engagement"
+  author: "Jessica Breen, Shannon Dosemagen, Don Blair and Liz Barry"
+  date: "2019-07-01"
+  description: "In *The Playful Citizen: Civic Engagement in a Mediatized Culture*, edited by R. Glas, S. Lammes, M. de Lange, J. Raessens and I. de Vries. Amsterdam University Press."
+  image: images/covers/playful-citizen.jpg
+  path: https://www.routledge.com/The-Playful-Citizen-Civic-Engagement-in-a-Mediatized-Culture/Glas-Lammes-Lange-Raessens-Vries/p/book/9781041188728
+  categories: [Book chapter]
+
+- title: "(Micro)movements and Microbrew: On Craft Beer, Tourism Trails, and Material Transformations in Three Urban Industrial Sites"
+  author: "Colleen Hiner and Jessica Breen"
+  date: "2018-07-01"
+  description: "In *Beers, Ciders and Spirits: Craft Beverages and Tourism in the U.S.*, edited by C. Kline, S. L. Slocum and C. Cavaliere. Palgrave Macmillan."
+  image: images/covers/craft-beverages-tourism.jpg
+  path: "https://link.springer.com/chapter/10.1007/978-3-319-57189-8_10"
+  categories: [Book chapter]
+
+- title: "No (Back)Sliding: Amenity Migration, Viewsheds, and Contesting Steep Slope Ordinances in Western North Carolina"
+  author: "Jessica Breen, Patrick Hurley and Laura Taylor"
+  date: "2016-07-01"
+  description: "In *A Comparative Political Ecology of Exurbia*, edited by L. Taylor and P. Hurley. Springer."
+  image: images/covers/comparative-political-ecology-exurbia.jpg
+  path: https://link.springer.com/book/10.1007/978-3-319-29462-9
+  categories: [Book chapter]
+
+- title: "Civic, Citizen and Grassroots Science: Towards a Transformative Scientific Research Model"
+  author: "Don Blair, Jessica Breen, Shannon Dosemagen, Mathew Lippincott and Liz Barry"
+  date: "2013-07-01"
+  description: "In *Accountability Technologies: Tools for Asking Hard Questions*, edited by D. Offenhuber and K. Schechtner. Vienna: Ambra Verlag."
+  image: images/covers/accountability-technologies.jpg
+  path: https://www.amazon.com/Accountability-Technologies-Tools-Asking-Questions/dp/3990435396?dib=eyJ2IjoiMSJ9.KIPm-KioX-txF6BnKKw6QkBKld8UmWHMsRaIvOQNstw.7-wvwtfDjAVNmfoJsob7fJGzHQhSkFtTXbRrPFPnm8Y&dib_tag=se&qid=1792354490&refinements=p_27%3ADietmar+Offenhuber%3BKatja+Schechtner&s=books&sr=1-3
+  categories: [Book chapter]
+
+- title: "Democratizing Environmental Research"
+  author: "Shannon Dosemagen, Jessica Breen and Don Blair"
+  date: "2013-07-01"
+  description: "In *Enabling City: Enhancing Creative Community Resilience*, vol. 2, edited by C. Camponeschi."
+  image: images/covers/enabling-city.jpg
+  path: https://www.enablingcity.com/pdfs/EC2-EN.pdf
+  categories: [Book chapter]

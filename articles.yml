@@ -1,0 +1,33 @@
+# Journal articles, encyclopedia entries and other writing: shown as a list without images.
+# `description` holds the venue. Leave out `path` if there's no link.
+# Dates: use YYYY-07-01 (only the year is shown; a bare year displays one year early).
+
+# -title: thing with librarians about the libguide
+
+- title: "Mapping Grassroots: Geodata and the Structure of Community-Led Open Environmental Science"
+  author: "Jessica Breen, Shannon Dosemagen, Jeffrey Warren and Mathew Lippincott"
+  date: "2015-09-26"
+  description: "*ACME: An International Journal for Critical Geographies* 14(3): 849–873."
+  path: https://www.acme-journal.org/index.php/acme/article/view/1236
+  categories: [Journal article]
+
+- title: "Mashup"
+  author: "Matthew Zook and Jessica Breen"
+  date: "2017-07-01"
+  description: "In *The International Encyclopedia of Geography: People, the Earth, Environment, and Technology*, edited by D. Richardson, N. Castree, M. Goodchild, W. Liu, A. Kobayashi and R. Marston. Hoboken, NJ: Wiley/AAG."
+  path: https://onlinelibrary.wiley.com/doi/10.1002/9781118786352.wbieg0910
+  categories: [Encyclopedia entry]
+
+- title: "Volunteered Geographic Information (VGI)"
+  author: "Matthew Zook and Jessica Breen"
+  date: "2016-07-01"
+  description: "In *Encyclopedia of GIS*, 2nd ed., edited by S. Shekhar, H. Xiong and X. Zhou. Springer."
+  path: https://link.springer.com/rwe/10.1007/978-3-319-23519-6_1656-1
+  categories: [Encyclopedia entry]
+
+- title: "Public Lab Focuses on Open Science Education at 2013 Barnraising"
+  author: "Shannon Dosemagen, Jessica Breen and Liz Barry"
+  date: "2013-10-01"
+  description: "*PBS MediaShift IdeaLab* blog."
+  path: http://mediashift.org/2013/10/public-lab-defies-wacky-weather-to-host-its-2013-barnraising/
+  categories: [Blog post]

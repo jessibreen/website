@@ -1,0 +1,35 @@
+---
+title: "Publications"
+listing:
+  - id: chapters
+    contents: chapters.yml
+    type: grid
+    grid-columns: 3
+    image-height: 300px
+    sort: "date desc"
+    fields: [image, title, description, author, date]
+    date-format: "YYYY"
+  - id: articles
+    contents: articles.yml
+    type: default
+    sort: "date desc"
+    fields: [title, author, date, description, categories]
+    date-format: "YYYY"
+---
+
+## Book Chapters
+
+::: {#chapters}
+:::
+
+## Articles and other writing
+
+::: {#articles}
+:::
+
+<script>
+document.querySelectorAll('#listing-chapters a[href^="http"], #listing-articles a[href^="http"]').forEach((link) => {
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+});
+</script>

@@ -1,0 +1,18 @@
+# One entry per project; they appear in the order listed here.
+# Images go in images/projects/ — replace the placeholder files, keeping the same names.
+# Add a `path:` line to link out to a project's own site.
+
+- title: "LexVote"
+  description: "A collaboration between community members, Kentuckians For The Commonwealth and Lextran, Lexington's bus service, to increase voter turnout with low-cost reminders about registration deadlines, polling places and more. Supported in 2016 by 8-80 Cities and the Knight Foundation through the Emerging Cities Champion program."
+  image: images/projects/lexvote.jpg
+  categories: [Cartographer and organizer]
+
+- title: "Plantory Neighborhood Arts Project"
+  description: "Engaged the Plantory community and its neighbors in dialogue about neighborhood change, using historical maps, civic data and participatory art to create a collection of art objects reflecting participants' many viewpoints. Funded by the Blue Grass Community Foundation with the Kresge Foundation, and a LexArts Community Arts Development grant."
+  image: images/projects/plantory-neighborhood-arts.jpg
+  categories: [Artist-in-residence]
+
+- title: "Points of Accessibility"
+  description: "A map of accessible businesses in downtown Lexington, made with the Latitude Artist Community, Livable Lexington and artist Teddy Salazar. Funded by the Blue Grass Community Foundation with the Kresge Foundation and the North Limestone Community Development Corporation."
+  image: images/projects/points-of-accessibility.jpg
+  categories: [Cartographer]

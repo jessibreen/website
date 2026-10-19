@@ -1,0 +1,11 @@
+---
+title: "Projects"
+description: "Community collaborations I've worked on."
+draft: true
+listing:
+  contents: projects.yml
+  type: grid
+  grid-columns: 3
+  fields: [image, title, categories, description]
+  max-description-length: 500
+---

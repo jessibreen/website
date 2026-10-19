@@ -1,0 +1,13 @@
+---
+title: "Workshops"
+description: "Workshops I've taught, facilitated and organized. Where materials are available, the card links to them."
+draft: true
+listing:
+  contents: workshops.yml
+  type: grid
+  grid-columns: 3
+  fields: [date, title, categories, description]
+  date-format: "MMMM YYYY"
+  max-description-length: 500
+  categories: true
+---

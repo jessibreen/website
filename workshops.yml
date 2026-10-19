@@ -1,0 +1,50 @@
+# Workshops: shown as cards, in the order listed here (put the newest first).
+# `description` says what the workshop covers and where it was given.
+# Add `path:` with the GitHub repo URL to link its materials; the whole card becomes the link.
+# `categories` is your role (Instructor, Co-instructor, Facilitator, Organizer, ...).
+# `date` is optional; use YYYY-MM-15 (month and year are shown).
+
+- title: "Data Preservation Workshop: Bringing Data Back from the Dead!"
+  date: "2025-10-15"
+  description: "Why public datasets disappear, and how to capture and recover them with the Internet Archive's Wayback Machine. With Olivia Ivey. Scary Data Week, American University Library. Slides available."
+  path: https://github.com/GeospatialResearchLab/workshop-data-preservation-2025
+  categories: [Co-instructor]
+
+- title: "AI Tools for Research: AI-Assisted Strategies for Cleaning and Preparing Research Data"
+  date: "2025-10-14"
+  description: "Planning a reproducible cleanup workflow for messy tabular data, and prompting generative AI to write and debug R code for it. AI Tools in Research series, Digital Research and Innovation Lab, American University. Data and notebooks available."
+  path: https://github.com/GeospatialResearchLab/workshop-data-cleaning-GenAI-R-2025
+  categories: [Instructor]
+
+- title: "AI Tools for Research: Getting Started with Literature Reviews"
+  date: "2025-10-13"
+  description: "Treating the literature review as discovery: following citation networks with Google Scholar, Semantic Scholar and Research Rabbit, and managing sources with Zotero. With Ashley Roccamo. AI Tools in Research series, Digital Research and Innovation Lab, American University. Slides and handout available."
+  path: https://github.com/GeospatialResearchLab/workshop-lit-review-2025
+  categories: [Co-instructor]
+
+- title: "Spark Joy in Your Data: A KonMari-Inspired Guide to Data Cleaning"
+  date: "2025-04-15"
+  description: "Removing duplicates, tidying columns and catching outliers in Excel. Digital Research and Innovation Lab, American University. Slides and cheat sheet available."
+  path: https://github.com/GeospatialResearchLab/workshop-data-cleaning-excel-2025
+  categories: [Instructor]
+
+
+# - title: "Data & Belonging"
+#   description: "On the Table, Lexington, KY."
+#   categories: [Facilitator]
+
+# - title: "Working with Civic Data"
+#   description: "Neighborhood Arts Project, Lexington, KY."
+#   categories: [Facilitator]
+
+# - title: "Introduction to QGIS"
+#   description: "Quantitative Initiative for Policy and Social Research Software Festival, University of Kentucky."
+#   categories: [Presenter]
+
+# - title: "OpenStreetMap US Editathon"
+#   description: "Lexington, KY."
+#   categories: [Organizer]
+
+# - title: "Ecosynth Advisory Workshop"
+#   description: "University of Maryland, Baltimore County."
+#   categories: [Organizer]

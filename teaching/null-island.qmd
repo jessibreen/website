@@ -1,0 +1,31 @@
+---
+title: "Null Island Site Selection Exercise"
+description: "A GIS site-selection exercise set on a fictional island, free to download and use in your own teaching."
+draft: true
+---
+
+Null Island sits at 0° latitude, 0° longitude, where in reality there is only open ocean. Here it has a small island, a few species of concern, and a conservation association that needs help choosing a site.
+
+## The assignment
+
+Students get the map layers and a short profile of each species. They work out the site-selection analysis on their own, then write it up as an issue of the **Null Island Conservation Association Newsletter**: a piece for a general reader that explains the problem, shows maps of each step, and works in facts about the animals. The write-up explains what was done and why, not which buttons were pushed.
+
+::: {.callout-note}
+The island, the species and the data are all made up, so the results can be shared openly without being mistaken for a real proposal.
+:::
+
+## Download
+
+[Download the materials (.zip)](https://github.com/jessibreen/REPO-NAME/releases/download/TAG/FILENAME.zip){.btn .btn-primary}
+
+Includes the map data (opens in ArcGIS Pro or QGIS), the assignment and rubric as Word and PDF files, and the species images and descriptions.
+
+Instructors can request the answer key at [contact method].
+
+## Student work
+
+- [Student name or chosen title](LINK)
+
+---
+
+Materials shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source files are on [GitHub](https://github.com/jessibreen/REPO-NAME).

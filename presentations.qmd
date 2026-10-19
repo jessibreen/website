@@ -1,0 +1,42 @@
+---
+title: "Presentations"
+description: "Conference papers, panels and invited talks."
+listing:
+  id: presentations
+  contents: presentations.yml
+  type: default
+  sort: "date desc"
+  date-format: "MMMM YYYY"
+  fields: [date, title, categories, description]
+  categories: true
+---
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const listing = document.querySelector("#listing-presentations");
+  if (!listing) return;
+
+  const normalizeLinks = () => {
+    const pageUrl = new URL(window.location.href);
+    listing.querySelectorAll("a").forEach((link) => {
+      const linkUrl = new URL(link.href, pageUrl);
+      if (linkUrl.origin === pageUrl.origin && linkUrl.pathname === pageUrl.pathname) {
+        link.closest("h3.listing-title")?.classList.add("presentation-title-no-link");
+        link.replaceWith(...link.childNodes);
+        return;
+      }
+
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+    });
+  };
+
+  normalizeLinks();
+  new MutationObserver(normalizeLinks).observe(listing, {
+    attributes: true,
+    attributeFilter: ["href"],
+    childList: true,
+    subtree: true
+  });
+});
+</script>

@@ -1,0 +1,35 @@
+# Courses: shown as a list, in the order listed here (put the newest first).
+# `description` is a sentence or two about the course; `categories` holds your role
+# and the institution. Add `path:` to link a syllabus or course site.
+
+- title: "ENVS-454: Geographic Information Systems"
+  description: "American University, Spring 2026."
+  categories: [Instructor, American University]
+
+- title: "GEO 309: Introduction to Geographic Information Systems"
+  description: "Designed and taught using only open-source tools and data. Covers data collection, processing and output alongside the ethics and social processes of mapping, ending with each student producing a series of maps on their own research interests."
+  categories: [Instructor, University of Kentucky]
+
+- title: "GEO 172: Introduction to Human Geography"
+  description: "Designed and taught an introduction to geographic perspectives on political, economic, social and cultural activity, emphasizing spatiality, placemaking and regions, and nature–society relations including climate change and sustainability."
+  categories: [Instructor, University of Kentucky]
+
+- title: "AS 500: Getting Started with Mapmaking"
+  description: "Co-designed and taught a one-credit course introducing non-geographers to GIS, map design, geovisualization and map critique."
+  categories: [Co-instructor, University of Kentucky]
+
+- title: "GEO 671: Introduction to New Mapping"
+  description: "Co-designed an online course on the social and technical sides of digital mapping, using best practices in online learning and critical pedagogy."
+  categories: [Instructional designer, University of Kentucky]
+
+- title: "GEO 509: Workshop in Geospatial Technologies (Community Mapshop)"
+  description: "A participatory workshop course pairing students with community partners on applied GIS projects, from scoping goals and acquiring data to delivering maps and analyses."
+  categories: [Teaching assistant, University of Kentucky]
+
+- title: "GEO 109: Digital Mapping"
+  description: "Mapping as a creative and artistic practice, including field mapping with balloons and kites and psychogeographic mapping. Co-created weekly lab assignments and led three recitation sections."
+  categories: [Teaching assistant, University of Kentucky]
+
+- title: "GEO 386/686: Introduction to Geographic Information Systems"
+  description: "Designed and taught weekly lab activities to complement lectures on the concepts and methods of GIS."
+  categories: [Teaching assistant, University of Maryland Baltimore County]
