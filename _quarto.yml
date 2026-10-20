@@ -26,9 +26,11 @@ website:
     right:
       - icon: github
         href: https://github.com/jessibreen
+        target: _blank
         aria-label: GitHub
       - icon: linkedin
         href: https://www.linkedin.com/in/jmbreen/
+        target: _blank
         aria-label: LinkedIn
   page-footer:
     left: "© 2026 Jessica Breen. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)."
